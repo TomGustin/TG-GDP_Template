@@ -1,0 +1,18 @@
+{
+  "name": "com.tomgustin.gamedesignpattern",
+  "version": "1.0.0",
+  "displayName": "TG-GDP Template",
+  "description": "Game Design Pattern Template",
+  "unity": "2018.3",
+  "keywords": [
+    "game-design-pattern",
+    "template",
+    "design-pattern"
+  ],
+  "author": {
+    "name": "Ari Utomo",
+    "email": "robertus.ari.utomo@gmail.com",
+    "url": "https://penguin55.github.io/"
+  },
+  "type": "library"
+}
