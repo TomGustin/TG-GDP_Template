@@ -18,7 +18,7 @@
   "samples": [
         {
             "displayName": "TG-GDP_Template",
-            "description": "Assets",
+            "description": "Additional Script to Use this template",
             "path": "Samples~/TG-GDP_Template"
         }
         ]
