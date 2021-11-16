@@ -14,5 +14,12 @@
     "email": "robertus.ari.utomo@gmail.com",
     "url": "https://penguin55.github.io/"
   },
-  "type": "library"
+  "type": "library",
+  "samples": [
+        {
+            "displayName": "TG-GDP_Template",
+            "description": "Assets",
+            "path": "Samples~/TG-GDP_Template"
+        }
+        ]
 }
