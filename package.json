@@ -1,6 +1,6 @@
 {
   "name": "com.tomgustin.gamedesignpattern",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "TG-GDP_Template",
   "description": "Game Design Pattern Template",
   "unity": "2018.3",
@@ -16,10 +16,10 @@
   },
   "type": "library",
   "samples": [
-        {
-            "displayName": "TG-GDP_Template",
-            "description": "Additional Script to Use this template",
-            "path": "Samples~/TG-GDP_Template"
-        }
-        ]
+    {
+      "displayName": "Additional Script",
+      "description": "Additional Script to Use this template",
+      "path": "Samples~/TG-GDP_Template"
+    }
+  ]
 }
